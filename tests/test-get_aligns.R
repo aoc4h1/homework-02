@@ -23,3 +23,5 @@ test_that("Is Joker good?", {
   test <- length(get_aligns("Good Characters"))
   expect_true(length(test) == "Joker")
 })
+
+# Vége

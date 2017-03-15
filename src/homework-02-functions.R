@@ -30,3 +30,4 @@ get_aligns <- function(goodbad=NA) {
   } else print(sort(comic_characters$name[regexpr(goodbad,comic_characters$align)>0]))
 }
 
+# Vége

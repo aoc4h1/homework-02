@@ -58,3 +58,4 @@ get_aligns
 get_aligns("Bad Characters")
 get_aligns("Good Characters")
 
+# Vége
